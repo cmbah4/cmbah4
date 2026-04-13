@@ -1,6 +1,6 @@
-#Portfolio
+# Portfolio
 ---
-##🧠 About Me:
+## 🧠 About Me:
 ---
 I am a cybersecurity analyst with hands-on experience in Security Operations Center (SOC) environments, focused on threat detection, incident response, and security monitoring. I actively work with SIEM platforms, endpoint and network logs, and vulnerability data to investigate suspicious activity and support effective response actions.
 
